@@ -1,4 +1,4 @@
-### HABITABLE PLANETS FINDER
+# HABITABLE PLANETS FINDER
 
 This Node.js application parses through the Kepler mission data to identify potentially habitable planets. It filters the planets based on specific criteria such as disposition, insolation flux, and planetary radius.
 
